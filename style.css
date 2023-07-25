@@ -1,0 +1,25 @@
+body{
+	bacground-color:green;
+	color:burlywood;
+	padding:10px;
+
+}
+#image {
+	float:left;
+
+}
+
+#description {
+	float:right;
+
+}
+
+#review {
+	clear: both;
+
+}
+
+#review2 {
+	float:left;
+
+}
